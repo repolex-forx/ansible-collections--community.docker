@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.docker/commit/0e35b1ef2878066e2ed9f24687ebdfa6a59deaed",
       "git:hexsha": "0e35b1ef2878066e2ed9f24687ebdfa6a59deaed",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.docker/commit/6b8801e15f37a9ec28e7667c26ca1434bd263b62",
